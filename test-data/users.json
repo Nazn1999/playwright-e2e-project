@@ -1,0 +1,28 @@
+[
+  {
+    "gender": "M",
+    "firstname": "John",
+    "lastname": "Doe",
+    "email": "john.doe.playwright1@example.com",
+    "password": "Password123!",
+    "company": "DemoCorp",
+    "country": "United States",
+    "city": "New York",
+    "address": "123 Main St",
+    "zip": "10001",
+    "phone": "1234567890"
+  },
+  {
+    "gender": "F",
+    "firstname": "Jane",
+    "lastname": "Smith",
+    "email": "jane.smith.playwright2@example.com",
+    "password": "Password456!",
+    "company": "DemoCorp",
+    "country": "United States",
+    "city": "Chicago",
+    "address": "456 Park Ave",
+    "zip": "60601",
+    "phone": "9876543210"
+  }
+]
